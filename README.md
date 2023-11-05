@@ -22,11 +22,26 @@ Power Report:
 <img width="750" alt="Screenshot 2023-11-05 184149" src="https://github.com/Lasya-G/RISC-V_FLOATPOINT/assets/140998582/4afa0b5e-d4eb-4348-9650-d6ad2eb4a552">  
 
 Post-Simulation Functional Simulation:  
-<img width="750" alt="Screenshot 2023-11-05 184600" src="https://github.com/Lasya-G/RISC-V_FLOATPOINT/assets/140998582/a3981563-ff43-44fa-83f1-b3ee7ada61a8">  
+<img width="750" alt="Screenshot 2023-11-05 184600" src="https://github.com/Lasya-G/RISC-V_FLOATPOINT/assets/140998582/a3981563-ff43-44fa-83f1-b3ee7ada61a8">    
 
 
+### Contributors  
+
+1. Yathin Kumar, Colleague, IIITB
+2. Saketh Gajawada, Colleague, IIITB
+3. Sathiya Naraayanan, Colleague, IIITB
+4. Pratik Kumar, Colleague, IIITB
+5. Dilli Babu, Colleague, IIITB
 
 
+### References  
 
+- ChatGPT
+- https://github.com/nishthaparashar/Floating-Point-ALU-in-Verilog
+- https://verilogcodes.blogspot.com/2015/11/verilog-code-for-matrix-multiplication.html
+- https://github.com/akilm/FPU-IEEE-754
+- https://digitalsystemdesign.in/floating-point-multiplication/
+- https://digitalsystemdesign.in/floating-point-addition-and-subtraction/
+  
 
 
