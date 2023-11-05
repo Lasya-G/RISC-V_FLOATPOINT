@@ -24,6 +24,12 @@ Power Report:
 Post-Simulation Functional Simulation:  
 <img width="750" alt="Screenshot 2023-11-05 184600" src="https://github.com/Lasya-G/RISC-V_FLOATPOINT/assets/140998582/a3981563-ff43-44fa-83f1-b3ee7ada61a8">    
 
+### Float Point Matrix Multiplication    
+
+**Post-synthesis Reports**:  
+
+<img width="750" alt="image" src="https://github.com/Lasya-G/RISC-V_FLOATPOINT/assets/140998582/8d480a12-47b2-48cd-b8a0-44c6a17d8462">
+
 
 ### Contributors  
 
