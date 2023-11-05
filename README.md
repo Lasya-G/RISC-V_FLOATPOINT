@@ -33,19 +33,17 @@ Post-Simulation Functional Simulation:
 
 ### Contributors  
 
-1. Yathin Kumar, Colleague, IIITB
-2. Saketh Gajawada, Colleague, IIITB
-3. Sathiya Naraayanan, Colleague, IIITB
-4. Pratik Kumar, Colleague, IIITB
-5. Dilli Babu, Colleague, IIITB
+1. Yathin Kumar
+2. Saketh Gajawada
+3. Sathiya Naraayanan
+4. Pratik Kumar
+5. Dilli Babu
 
 
 ### References  
 
 - ChatGPT
-- https://github.com/nishthaparashar/Floating-Point-ALU-in-Verilog
 - https://verilogcodes.blogspot.com/2015/11/verilog-code-for-matrix-multiplication.html
-- https://github.com/akilm/FPU-IEEE-754
 - https://digitalsystemdesign.in/floating-point-multiplication/
 - https://digitalsystemdesign.in/floating-point-addition-and-subtraction/
   
